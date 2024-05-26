@@ -2,7 +2,7 @@
 ojos, cansancio y hambre) y 4 métodos (Comer, Dormir, Jugar, Acariciar). Luego
 instanciar 3 objetos de la clase gato con distintos atributos y utilizar sus
 Metodos."""
-class Gato():
+class gatito.1():
     def __init__(self,Nombre,Pelo,Ojos,CansancioMaximo,HambreMaximo):
         self.Nombre=Nombre
         self.Pelo=Pelo
